@@ -1,4 +1,4 @@
-# Instagram Tasarım Denememe Hoşgeldin !
+# Youtube Music Tasarım Denememe Hoşgeldin !
 
 Merhaba, derste gösterdiğiniz yotube music tasarımını kendim denedim.
 
